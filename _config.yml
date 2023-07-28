@@ -1,0 +1,12 @@
+title: Canto Identity Protocol Docs
+description: Developer documentation for Canto Identity Protocol
+theme: just-the-docs
+
+url: https://docs.cantoidentity.build
+
+permalink: pretty
+
+aux_links:
+  CIP Repo: https://github.com/mkt-market/canto-identity-protocol
+  Contribute to Docs: https://github.com/mkt-market/cip-docs
+  Canto Namespace Protocol Docs: https://docs.cantoname.build
