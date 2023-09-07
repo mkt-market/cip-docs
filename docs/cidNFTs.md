@@ -4,7 +4,7 @@ title: Canto Identities (CIDs)
 layout: default
 permalink: cidNFTs
 ---
-
+{% seo %}
 # Canto Identity NFTs
 
 Canto Identity NFTs (CIDs) represent individual on-chain identities. Through nested mappings, they point to subprotocolNFTs representing individual identity traits.
