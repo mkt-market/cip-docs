@@ -2,8 +2,8 @@ title: Canto Identity Protocol Docs
 description: Developer documentation for Canto Identity Protocol
 theme: just-the-docs
 favicon_ico: '/assets/CIP_white.ico'
-image: '/assets/CIP_white.png'
-logo: '/assets/CIP_white.png'
+image: '/assets/CIP_black.png'
+logo: '/assets/CIP_black.png'
 url: https://docs.cantoidentity.build
 
 permalink: pretty
