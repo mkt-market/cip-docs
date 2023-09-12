@@ -7,7 +7,7 @@ permalink: cidNFTs
 {% seo %}
 # Canto Identity NFTs
 
-Canto Identity NFTs (CIDs) represent individual on-chain identities. Through nested mappings, they point to subprotocolNFTs representing individual identity traits.
+Canto Identity NFTs (CIDs) represent individual on chain identities. Through nested mappings, they point to subprotocolNFTs representing individual identity traits.
 
 On `CidNFT.sol`, the internal mapping `cidData` maps CID tokenIds to Subprotocols, which in turn map to `SubprotocolData` structs:
 

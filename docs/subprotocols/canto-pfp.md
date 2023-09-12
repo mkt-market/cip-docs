@@ -8,7 +8,7 @@ permalink: subprotocols/canto-pfp
 
 # Canto PFP Protocol
 
-Canto PFP Protocol is a barebones Subprotocol that can be used to reference any ERC721 NFT in one's on-chain identity. It consists of a single smart contract, [`ProfilePicture.sol`](https://github.com/mkt-market/canto-pfp-protocol/blob/master/src/ProfilePicture.sol).
+Canto PFP Protocol is a barebones Subprotocol that can be used to reference any ERC721 NFT in one's on chain identity. It consists of a single smart contract, [`ProfilePicture.sol`](https://github.com/mkt-market/canto-pfp-protocol/blob/master/src/ProfilePicture.sol).
 
 ## Minting
 

@@ -8,7 +8,7 @@ permalink: subprotocols/canto-bio
 
 # Canto Bio Protocol
 
-Canto Bio Protocol is a barebones Subprotocol that can be used to save a *bio* string in one's on-chain identity. It consists of a single smart contract, [`Bio.sol`](https://github.com/mkt-market/canto-bio-protocol/blob/master/src/Bio.sol).
+Canto Bio Protocol is a barebones Subprotocol that can be used to save a *bio* string in one's on chain identity. It consists of a single smart contract, [`Bio.sol`](https://github.com/mkt-market/canto-bio-protocol/blob/master/src/Bio.sol).
 
 ## Minting
 
@@ -29,6 +29,6 @@ Upper- and lowercase Latin characters as well as basic punctuation and control c
 
 ## Bio Preview
 
-The `tokenURI` view renders an on-chain SVG preview of the bio string. A newline is automatically added every 40 characters, such that the bio is divided across up to 5 lines.
+The `tokenURI` view renders an on chain SVG preview of the bio string. A newline is automatically added every 40 characters, such that the bio is divided across up to 5 lines.
 
 Note that newlines are not added at continutation bytes, zero-width joiners, or skin tone modifiers.

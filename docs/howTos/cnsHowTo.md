@@ -11,7 +11,7 @@ Welcome to the Canto Namespace Protocol guide. This guide will walk you through 
 
 ## Understanding Canto Namespace Protocol
 
-The **Canto Namespace Protocol (CNP)** enables users to create on-chain display names with stylized letters, numbers, and emojis. Unlike other naming protocols, CNP empowers users with self-expression by offering a wide range of naming options. The protocol operates within the broader **Canto Identity Protocol**, which aims to redefine on-chain identity.
+The **Canto Namespace Protocol (CNP)** enables users to create on chain display names with stylized letters, numbers, and emojis. Unlike other naming protocols, CNP empowers users with self-expression by offering a wide range of naming options. The protocol operates within the broader **Canto Identity Protocol**, which aims to redefine on chain identity.
 
 ## Getting Started
 

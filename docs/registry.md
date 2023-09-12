@@ -7,7 +7,7 @@ permalink: registry
 
 # Address Registry
 
-`AddressRegistry.sol` allows users to register a CID as their canonical on-chain identity. It also offers address lookup and reverse lookup functionality, allowing applications to find an address' registered CID and vice versa.
+`AddressRegistry.sol` allows users to register a CID as their canonical on chain identity. It also offers address lookup and reverse lookup functionality, allowing applications to find an address' registered CID and vice versa.
 
 ## Registering cidNFTs
 
