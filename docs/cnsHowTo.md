@@ -1,8 +1,8 @@
 ---
 nav_order: 4
-title: How To Mint
+title: How To Register
 layout: default
-permalink: how-to-mint
+permalink: how-to-register
 ---
 # Canto Identity Registration Guide
 
