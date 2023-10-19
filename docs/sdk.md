@@ -73,7 +73,7 @@ Now we have an app that is ready to interact with the CIP sdk.
 
 # Retrieving Namespace, Bio and PFP.
 
-Easiest way to retrieve a user namepsace, brio and pfp data is to use the getNamespaceByAddress(), getBioByAddress(), getPfpByAddress() methods. 
+Easiest way to retrieve a user namepsace, bio and pfp data is to use the getNamespaceByAddress(), getBioByAddress(), getPfpByAddress() methods. 
 
 {% highlight jsx%}
 import React, { useState } from 'react';
