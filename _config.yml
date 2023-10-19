@@ -15,3 +15,5 @@ aux_links:
 
 plugins:
   - jekyll-seo-tag
+
+highlighter: rouge

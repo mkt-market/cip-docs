@@ -1,6 +1,6 @@
 ---
 nav_order: 4
-title: How To Register
+title: How to Register
 layout: default
 permalink: how-to-register
 ---

@@ -76,6 +76,7 @@ DEPENDENCIES
   jekyll (~> 4.3)
   jekyll-seo-tag
   just-the-docs (= 0.4.2)
+  rouge
 
 BUNDLED WITH
    2.4.19
